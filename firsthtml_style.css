@@ -1,0 +1,53 @@
+body{
+	background-image: url("http://i0.wp.com/www.melissamcculloch.com/wp-content/uploads/2015/05/floral-web-01-min.png")
+
+}
+
+.titles{
+	background-color: white;
+}
+
+h1{
+	text-align: center;
+	border: 3px;
+	border-style: double solid double solid;
+}
+
+#gwcs2016{
+	text-align: center;
+}
+
+#AboutMe {
+	border: 3px solid;
+	font-family:Papyrus;  
+	font-size: 20px;
+	margin-bottom: 5px;
+	margin-left:100px;
+	margin-right: 100px;
+	margin-top: 50px;
+	background-image: url("https://sophiewainwrightdesign.files.wordpress.com/2012/05/white-and-baby-pink-polka-dot.jpg");
+}
+
+#githublink{
+	border: 3px solid;
+	background-image: url("https://sophiewainwrightdesign.files.wordpress.com/2012/05/white-and-baby-pink-polka-dot.jpg");
+}
+
+#aboutmetitle{
+	text-align: center;
+}
+
+img{
+	/*border: 3px solid;*/
+	border-radius: 10%;
+}
+
+#projects{
+	/*margin-right: 1200px;
+	border-radius: 10%;
+}
+
+#ptitle {
+	font-size: 25px;
+	font-weight:bold;
+}
